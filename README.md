@@ -1,8 +1,11 @@
 ![](https://github.com/Alishba-Fahim/Alishba-Fahim/blob/main/Banner.png.png)
 
-<h1 align="center">Hi 👋, I'm Alishba Fahim</h1>
-- 🌱 Currently enhancing my skills in **HTML**, **CSS**, **JavaScript**, & **React** to craft dynamic, interactive web experiences 🚀✨.
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Alishba+Fahim;Passionate+Web+Developer;Learning+Advanced+Web+Development;Open+Source+Contributor+🚀" alt="Typing Animation">
+</p>
 
+---
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left">
@@ -22,26 +25,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Add other icons as needed -->
+## 🔥 **Tech Stack & Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishba-fahim&show_icons=true&locale=en&layout=compact" alt="alishba-fahim" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alishba-Fahim&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Fahim&theme=radical" alt="GitHub Streak" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Fahim&layout=compact&theme=radical" alt="Top Languages" width="450px">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alishba-fahim&show_icons=true&locale=en" alt="alishba-fahim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishba-fahim&" alt="alishba-fahim" /></p>
